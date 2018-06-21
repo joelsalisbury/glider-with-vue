@@ -1,5 +1,5 @@
 <template>
-  <div :class = "['part', 
+  <div v-if="state=='active'" :class = "['part', 
                   'part-' + this.id, 
                   'state-' + state]">
 

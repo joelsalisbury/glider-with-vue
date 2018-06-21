@@ -9,7 +9,7 @@
 		      <h1>Part Part Part</h1>
 	    	</Part>
 
-	    	<ImageZoom id="imagezoom1" zoomLevel="1" state="inactive" asset="http://placekitten.com/400/400"></ImageZoom>
+	    	<ImageZoom id="imagezoom1" zoomLevel="1" state="active" asset="http://placekitten.com/400/400"></ImageZoom>
     	</div>
 
     	<div class="phases">
